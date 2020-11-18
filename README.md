@@ -1,2 +1,2 @@
 # BandNameGenerator
-Generates a band name for a given musical genre
+Generates a band name based on the given musical genre that you type
